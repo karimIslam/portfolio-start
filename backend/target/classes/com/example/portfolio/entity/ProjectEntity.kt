@@ -1,4 +1,4 @@
-package com.example.portfolio
+package com.example.portfolio.entity
 
 import jakarta.persistence.*
 
